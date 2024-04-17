@@ -7,3 +7,5 @@ Author: Ramesh
 3.last screen code
 
 4.Attachments (Image,audio,video) code
+
+5.Hide the last seen
