@@ -9,3 +9,7 @@ Author: Ramesh
 4.Attachments (Image,audio,video) code
 
 5.Hide the last seen
+
+6.Audio Call Feature
+
+7.Video Call Feature
